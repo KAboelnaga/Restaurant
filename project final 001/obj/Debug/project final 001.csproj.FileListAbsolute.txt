@@ -1,0 +1,27 @@
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project final 001.csprojAssemblyReference.cache
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project_final_001.Form1.resources
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project_final_001.Form2.resources
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project_final_001.Properties.Resources.resources
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project final 001.csproj.GenerateResource.cache
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project final 001.csproj.CoreCompileInputs.cache
+C:\Users\kareem\source\repos\project final 001\project final 001\bin\Debug\project final 001.exe.config
+C:\Users\kareem\source\repos\project final 001\project final 001\bin\Debug\project final 001.exe
+C:\Users\kareem\source\repos\project final 001\project final 001\bin\Debug\project final 001.pdb
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project final 001.exe
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project final 001.pdb
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project_final_001.Form3.resources
+C:\Users\kareem\source\repos\project final 001\project final 001\obj\Debug\project_final_001.Form4.resources
+E:\project final 001\project final 001\bin\Debug\project final 001.exe.config
+E:\project final 001\project final 001\bin\Debug\project final 001.exe
+E:\project final 001\project final 001\bin\Debug\project final 001.pdb
+E:\project final 001\project final 001\obj\Debug\project final 001.csproj.AssemblyReference.cache
+E:\project final 001\project final 001\obj\Debug\project final 001.csproj.SuggestedBindingRedirects.cache
+E:\project final 001\project final 001\obj\Debug\project_final_001.Form1.resources
+E:\project final 001\project final 001\obj\Debug\project_final_001.Form2.resources
+E:\project final 001\project final 001\obj\Debug\project_final_001.Form3.resources
+E:\project final 001\project final 001\obj\Debug\project_final_001.Form4.resources
+E:\project final 001\project final 001\obj\Debug\project_final_001.Properties.Resources.resources
+E:\project final 001\project final 001\obj\Debug\project final 001.csproj.GenerateResource.cache
+E:\project final 001\project final 001\obj\Debug\project final 001.csproj.CoreCompileInputs.cache
+E:\project final 001\project final 001\obj\Debug\project final 001.exe
+E:\project final 001\project final 001\obj\Debug\project final 001.pdb
